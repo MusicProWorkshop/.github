@@ -11,9 +11,17 @@
 - **Give back**: review other artists' work and sharpen your own ear along the way
 - **Grow together**: connect with musicians who are working toward the same goals
 
-## 🛠️ About this organization
+## 🛠️ Open source projects
 
-This is where the code behind MusicProWorkshop.com lives. Have an idea, found a bug, or want to contribute? Open an issue or start a discussion in the relevant repo.
+Along the way, we build tools that make life easier for musicians and creators, and we share them here:
+
+| Project | What it does |
+| --- | --- |
+| [**AbletonLiveVersions**](https://github.com/MusicProWorkshop/AbletonLiveVersions) | Version management for Ableton Live sets |
+| [**ableton-clip-names**](https://github.com/MusicProWorkshop/ableton-clip-names) | Automatically names MIDI clips based on their content |
+| [**davinci-resolve-skills**](https://github.com/MusicProWorkshop/davinci-resolve-skills) | Skills for working with DaVinci Resolve |
+
+Have an idea, found a bug, or want to contribute? Open an issue or a pull request in any of these repos. We'd love your help!
 
 ---
 
